@@ -17,9 +17,15 @@ const Travel = (): JSX.Element => {
       <h2>
         <Text value={'travel_from_trondheim_3'} />
       </h2>
+       <p>
+        <Text value={'travel_from_trondheim_6'} />
+      </p>
       <h2>
         <Text value={'travel_from_trondheim_4'} />
       </h2>
+       <p>
+        <Text value={'travel_from_trondheim_7'} />
+      </p>
     </div>
   );
 };
