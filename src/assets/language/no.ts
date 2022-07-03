@@ -14,7 +14,7 @@ export const no = {
     'Første steg er å komme seg til Trondheim. Fra Trondheim kommer du deg til Fjellværøya på tre måter: Rutebåt + buss, direktebuss eller bil.',
   travel_from_trondheim_2: 'Rutebåt + buss',
   travel_from_trondheim_3:
-    'Det går hurtigbåt fra Trondheim Hurtigbåtterminal og til Sandstad på Hitra. Videre går det korresponderende buss (422 Dyrøy) til Fillan Busstasjon. Kjøp billett for hele veien hos mannskapet ombord på båten.',
+    'Det går hurtigbåt fra Trondheim Hurtigbåtterminal og til Sandstad på Hitra. Videre går det korresponderende buss (422 Dyrøy) til Fillan Busstasjon. Kjøp billett for hele veien hos mannskapet ombord på båten. Les mer på AtB sine sider her',
   travel_from_trondheim_4: 'Bil',
   travel_from_trondheim_5: 'Hvordan med bil',
   //information
