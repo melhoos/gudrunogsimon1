@@ -11,8 +11,11 @@ export const no = {
   // program
   program_in_progress: 'Vi holder på med planlegging! Mer informasjon kommer.',
   //travel
-  tavel_from_trondheim:
-    'Første steg er å komme seg til Trondheim. Fra Trondheim kommer du deg til Fjellværøya på tre måter: Rutebåt + buss, buss eller bil.',
+  travel_from_trondheim:
+    'Første steg er å komme seg til Trondheim. Fra Trondheim kommer du deg til Fjellværøya på tre måter: Rutebåt + buss, direktebuss eller bil.',
+  travel_from_trondheim_2: 'Rutebåt + buss',
+  travel_from_trondheim_3: 'Direktebuss',
+  travel_from_trondheim_4: 'Bil',
   //information
   information_rsvp: 'rsvp',
   information_rsvp_desc:
@@ -22,7 +25,7 @@ export const no = {
     'Været er variende i Nord-Norge, men vi håper selvfølgelig på sol og 20 grader, gjerne døgnet rundt. Kom sommerlig pent.',
   information_gifts: 'gaver',
   information_gifts_desc_1:
-    'Vi forventer ingen bryllupsgave. Din tilstedeværelse på vår spesielle dag er en stor nok gave for oss.',
+    'Vi forventer ingen bryllupsgave. Det viktigste for oss er at du vil være med å feire dagen.',
   information_gifts_desc_2:
     'Dersom du ikke er enig i det og allikevel ønsker å gi oss noe hadde vi blitt veldig glad for penger til bryllupsreise.',
   information_packinglist: 'pakkeliste',
