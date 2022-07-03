@@ -16,10 +16,19 @@ const Travel = (): JSX.Element => {
       </p>
       <h2>
         <Text value={'travel_from_trondheim_4'} />
+      </h2>   
+                  <p>
+            <Text value={'travel_from_trondheim_5'} />
+            <a
+              href="https://www.atb.no/hitra/"
+              target="_blank"
+            >
+              <Text value={'travel_from_trondheim_5_link'} />
+            </a>
+            <Text value={'travel_from_trondheim_6'} />
+          </p>
+        
       </h2>
-       <p>
-        <Text value={'travel_from_trondheim_5'} />
-      </p>
     </div>
   );
 };
