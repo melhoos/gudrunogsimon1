@@ -11,6 +11,9 @@ const Travel = (): JSX.Element => {
       <h2>
         <Text value={'travel_from_trondheim_2'} />
       </h2>
+      <p>
+        <Text value={'travel_from_trondheim_5'} />
+      </p>
       <h2>
         <Text value={'travel_from_trondheim_3'} />
       </h2>
