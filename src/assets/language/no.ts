@@ -10,7 +10,7 @@ export const no = {
   rsvp_place: 'Norbotn Kirke på Fjellværøya',
   // program
   //travel
-  tavel_from_trondheim: 'Tekst',
+  tavel_from_trondheim: 'Første steg er å komme seg til Trondheim. Fra Trondheim kommer du deg til Fjellværøya på tre måter: Rutebåt + buss, buss eller bil.',
   //information
   information_rsvp: 'rsvp',
   information_rsvp_desc:
