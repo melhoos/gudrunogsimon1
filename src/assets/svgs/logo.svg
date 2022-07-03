@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="165" height="110" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <line x1="15" x2="15" y1="15" y2="95" stroke="#444" stroke-width="5"/>
+  <line x1="15.5" x2="42.9" y1="16.411" y2="75" stroke="#444" stroke-width="5" style=""/>
+  <line x1="70" x2="42.4" y1="16.396" y2="75" stroke="#444" stroke-width="5" style=""/>
+  <line x1="70" x2="70" y1="15" y2="95" stroke="#444" stroke-width="5"/>
+
+  <path d="M 102 55 C 102 60, 97 60, 92 65 C 87 60, 82 60, 82 55 C 82 45, 87 45, 92 55 C 97 45, 102 45, 102 56" stroke="#444" stroke-width="3" fill="none" />
+
+  <line x1="115" x2="115" y1="12.65" y2="97.42" stroke="#444" stroke-width="5"/>
+  <line x1="115" x2="155" y1="15" y2="15" stroke="#444" stroke-width="5"/>
+  <line x1="115" x2="145" y1="55" y2="55" stroke="#444" stroke-width="5"/>
+  <line x1="115" x2="155" y1="95" y2="95" stroke="#444" stroke-width="5"/>
+</svg>

@@ -1,0 +1,46 @@
+@import './variables.scss';
+
+.App {
+
+
+  @font-face {
+    font-family: "FiraMono";
+    src: url("../assets/fonts/FiraMono-Regular.ttf") format("ttf");
+  }
+
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  font-size: 16px;
+  font-family: 'FiraMono', Andale Mono,AndaleMono,monospace; 
+  color: $fontColor;
+  background-color: $backgroundColor;
+  header,
+  footer {
+    display: flex;
+    justify-content: center;
+    color: $fontColor;
+    padding: 20px 10px;
+    background-color: $sandColor;
+  }
+  header {
+    img {
+      width: 80px;
+      margin-left: auto;
+      transform: translateX(42px)
+    }
+    .language-selector {
+      margin-left: auto;
+      .language-toggle-group {
+        width: 85px;
+        height: 25px;
+      }
+    }
+  }
+  footer {
+    margin-top: auto;
+  }
+  a {
+    color: $blueColor;
+  }
+}

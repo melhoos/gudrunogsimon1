@@ -1,0 +1,15 @@
+{
+  "short_name": "M+E",
+  "name": "M+E",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#444",
+  "background_color": "#e5e3e4"
+}
