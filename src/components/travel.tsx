@@ -17,7 +17,7 @@ const Travel = (): JSX.Element => {
         href="https://www.atb.no/hitra/"
         target="_blank"
         >
-        <Text value={'boat_desc_link'} />
+        <Text value={'atb_link'} />
         </a>
       </p>
       
