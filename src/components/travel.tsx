@@ -9,7 +9,9 @@ const Travel = (): JSX.Element => {
       </h1>
       <Text value={'tavel_from_trondheim'} />
       <p>
+        <h2>
         <Text value={'tavel_from_trondheim_2'} />
+        </h2>
       </p>
       <p>
         <Text value={'tavel_from_trondheim_3'} />
