@@ -11,12 +11,12 @@ const Travel = (): JSX.Element => {
       <h2>
         <Text value={'tavel_from_trondheim_2'} />
       </h2>
-      <p>
+      <h2>
         <Text value={'travel_from_trondheim_3'} />
-      </p>
-      <p>
+      </h2>
+      <h2>
         <Text value={'travel_from_trondheim_4'} />
-      </p>
+      </h2>
     </div>
   );
 };
