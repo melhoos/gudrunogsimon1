@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = (): JSX.Element => {
   return (
     <footer>
-      <div>Made by MM & EK</div>
+      <div>Made by MM</div>
     </footer>
   );
 };

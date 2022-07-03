@@ -8,6 +8,7 @@ const Travel = (): JSX.Element => {
         <Text value={'travel_and_accommodation'} />
       </h1>
       <Text value={'tavel_from_trondheim'} />
+      <h1>heihei</h1>
     </div>
   );
 };

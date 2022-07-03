@@ -9,8 +9,10 @@ export const no = {
   rsvp_date: '5. august 2023',
   rsvp_place: 'Norbotn Kirke på Fjellværøya',
   // program
+  program_in_progress: 'Vi holder på med planlegging! Mer informasjon kommer.',
   //travel
-  tavel_from_trondheim: 'Første steg er å komme seg til Trondheim. Fra Trondheim kommer du deg til Fjellværøya på tre måter: Rutebåt + buss, buss eller bil.',
+  tavel_from_trondheim:
+    'Første steg er å komme seg til Trondheim. Fra Trondheim kommer du deg til Fjellværøya på tre måter: Rutebåt + buss, buss eller bil.',
   //information
   information_rsvp: 'rsvp',
   information_rsvp_desc:
